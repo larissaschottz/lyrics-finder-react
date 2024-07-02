@@ -22,7 +22,7 @@ Este é um projeto de um aplicativo Lyrics Finder desenvolvido em React. O aplic
 git clone https://github.com/seu-usuario/lyrics-finder.git
 
 2. Instale as dependências:
-cd lyrics-finder
+cd lyrics-finder <br>
 npm install
 
 3. Inicie o servidor de desenvolvimento:
