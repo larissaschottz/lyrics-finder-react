@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+.head-app {
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #F28705;
+}
+
+form {
+  margin: 20px;
+  font-family: sans-serif;
+}
+.label-app {
+  margin-bottom: 10px;
+  margin-top: 20px;
+  display: block;
+}
+
+form div {
+  margin: 10px 0;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: none; 
+}
+button:hover {
+  color: white;
+  background-color: #1B4159;
+  border-radius: 5px;
+}
+h2 {
+  color: #1B4159;
+}
+
+pre {
+  text-align: center;
+  white-space: pre-wrap;
+  margin: 20px;
+  background: #1B4159;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
